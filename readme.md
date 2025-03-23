@@ -11,7 +11,7 @@ Download or clone the whole firmware and clone this repo keyboards/c64 folder. O
 
 ### Default
 
-To build with the default keymap, simply run `make default`.
+To build with the default keymap, simply run `make default` in the c64 folder.
 
 ### Further information
 
