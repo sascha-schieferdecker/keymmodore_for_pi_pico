@@ -15,4 +15,7 @@ To build with the default keymap, simply run `make default`.
 
 ### Further information
 
-Questions? Please see the [website](https://www.keymmodore.com/)
+Questions? Please see the [website](https://www.keymmodore.com/) of the great creator of this project K-rnivoro
+
+This is just a repo where I'll store my personal modifications of the software
+
